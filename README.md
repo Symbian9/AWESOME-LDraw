@@ -1,6 +1,8 @@
 # AWESOME-LDraw
 
-*LDraw* — awesome software, file format, parts library and model repository (3D models of LEGO® and LEGO-compatible bricks)
+*LDraw* — an awesome software, file format, parts library and model repository (3D models of LEGO® and LEGO-compatible bricks)
+
+- Discussion: https://forums.ldraw.org/thread-23692.html
 
 > [![LDraw.org](https://forums.ldraw.org/images/mainsite_logo.png)](http://www.ldraw.org)
 >
