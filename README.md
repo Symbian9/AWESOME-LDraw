@@ -6,10 +6,16 @@
 
 > [![LDraw.org](https://forums.ldraw.org/images/mainsite_logo.png)](http://www.ldraw.org)
 >
-> - Homepage: http://ldraw.org/
-> - Wiki: http://wiki.ldraw.org/wiki/LDraw.org_Wiki
-> - Forum: http://forums.ldraw.org/
-> - Virtual Models repository: http://omr.ldraw.org/
+> - Homepage: https://ldraw.org/
+> - Wiki: https://wiki.ldraw.org/wiki/LDraw.org_Wiki
+> - Forum: https://forums.ldraw.org/
+> - Virtual Models repository: https://omr.ldraw.org/
+
+----
+
+> **Fair Play**
+>
+> LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site & software.
 
 ----
 
@@ -60,16 +66,16 @@
 
 #### LDraw Official and Unofficial Parts
 
-- ***LDraw Official*** — *LEGO®* parts maintained by [LDraw.org](http://www.ldraw.org).
-  - Homepage: http://www.ldraw.org/article/13.html
-  - Package(s): [complete.zip](http://www.ldraw.org/library/updates/complete.zip) (latest stable release)
-  - Repository/Tracker: http://www.ldraw.org/library/tracker/
+- ***LDraw Official*** — *LEGO®* parts maintained by [LDraw.org](https://www.ldraw.org).
+  - Homepage: https://www.ldraw.org/article/13.html
+  - Package(s): [complete.zip](https://www.ldraw.org/library/updates/complete.zip) (latest stable release)
+  - Repository/Tracker: https://www.ldraw.org/library/tracker/
   - License: `CCAL 2.0`
 
-- ***LDraw Unofficial*** — unfinished (work-in-progress) *LEGO®* parts and *LEGO®*-compatible parts submitted by users to [LDraw.org](http://www.ldraw.org).
-  - Homepage: http://www.ldraw.org/article/14.html
-  - Package(s): [ldrawunf.zip](http://www.ldraw.org/library/unofficial/ldrawunf.zip) (regular updated; EXPERIMENTAL!)
-  - Repository/Tracker: http://www.ldraw.org/library/tracker/
+- ***LDraw Unofficial*** — unfinished (work-in-progress) *LEGO®* parts and *LEGO®*-compatible parts submitted by users to [LDraw.org](https://www.ldraw.org).
+  - Homepage: https://www.ldraw.org/article/14.html
+  - Package(s): [ldrawunf.zip](https://www.ldraw.org/library/unofficial/ldrawunf.zip) (regular updated; EXPERIMENTAL!)
+  - Repository/Tracker: https://www.ldraw.org/library/tracker/
   - License: `CCAL 2.0`
 
 #### LDraw Other Parts
@@ -536,9 +542,3 @@ Next tools would be useful for creating own *LDraw parts* (*authoring*), convert
 > NOTE: Reference links unsorted! Some links could be broken!
 
 Reference links listed on [AWESOME-LDraw wiki](https://github.com/Symbian9/AWESOME-LDraw/wiki)
-
-----
-
-> **Fair Play**
->
-> LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site & software.
