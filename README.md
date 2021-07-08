@@ -418,7 +418,7 @@ Next tools would be useful for creating own *LDraw parts* (*authoring*), convert
   - Pages: [Converter](http://www.digital-bricks.de/en/index.php?site=konv-uersicht), [Overview](http://www.digital-bricks.de/en/index.php?site=konv-uersicht), [Download](http://www.digital-bricks.de/en/index.php?site=konv-download), [How-To](http://www.digital-bricks.de/en/index.php?site=konv-how-to)
   
 - ***\<brick-viewer\>*** - An HTML custom element for displaying mpds.
-  - Homepage:
+  - Homepage: https://polymerlabs.github.io/brick-viewer
   - Sources: https://github.com/PolymerLabs/brick-viewer
   - License: `BSD-3-Clause`
 
